@@ -12,3 +12,4 @@ Features :
 4. An employee can register, only admin can make an employee an admin
 5.  Used JWT accessToken to validate the user, all the pages are secured with JWT token validation
 6.  bcrypt is used to Hash the passwords
+7.  Used create Notification to show the appropriate notification
