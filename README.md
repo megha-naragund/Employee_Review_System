@@ -13,3 +13,8 @@ Features :
 5.  Used JWT accessToken to validate the user, all the pages are secured with JWT token validation
 6.  bcrypt is used to Hash the passwords
 7.  Used create Notification to show the appropriate notification
+
+Technology:
+FrontEnd- ReactJS
+BackEnd - NodeJS
+Database - Mongo DB
